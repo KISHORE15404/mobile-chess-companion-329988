@@ -1,1 +1,3 @@
-# mobile-chess-companion-329988
+# Project Repository
+
+This is the initial README file for the project.
